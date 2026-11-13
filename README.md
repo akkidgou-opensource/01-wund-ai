@@ -28,8 +28,9 @@ Die Einschätzung der Verbrennungstiefe hängt stark von der untersuchenden Pers
 | `SPICKZETTEL.md` | Umsetzungsplan für 8 Stunden, Block für Block |
 | `CLAUDE.md`, `AGENTS.md` | Dieselben Regeln für den Coding-Agenten (Claude Code liest die erste, Codex die zweite Datei) |
 | `GITHUB_ANLEITUNG.md` | Eure Arbeit auf GitHub bringen, ohne Git-Kenntnisse |
-| `daten/QUELLEN.md` | Offene Bildquellen mit Lizenz |
-| `daten/testbilder/` | 12 frei lizenzierte Fotos von Verbrennungen mit `referenz.csv` |
+| `daten/QUELLEN.md` | Herkunft, Lizenz und Grenzen der Bilder. Bitte vor dem Testen lesen. |
+| `daten/testbilder/` | Rund 35 frei lizenzierte Fotos von Verbrennungen und ähnlichen Hautschäden mit `referenz.csv` |
+| `daten/kontrollbilder/` | 100 Kontrollbilder: gesunde Haut und Wunden, die keine Verbrennungen sind |
 
 ## Stolpersteine
 - Wenig eigenes Bildmaterial verfügbar
