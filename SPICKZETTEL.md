@@ -50,7 +50,7 @@ Stelle die Ausgabe auf JSON um mit den Feldern: beurteilbar (ja/nein), grad, beg
 **Fertig, wenn:** Ampel ohne Scrollen sichtbar ist und der Demo-Modus läuft.
 
 ## Block 6 · Testen und Prompt verbessern
-1. Testbilder aus `daten/QUELLEN.md` in `testbilder/` legen. Drei davon beiseitelegen (Blind-Fälle).
+1. Die Bilder aus `daten/testbilder/` in den Ordner `testbilder` kopieren. Drei davon beiseitelegen (Blind-Fälle). Herkunft und Grenzen der Bilder stehen in `daten/QUELLEN.md`.
 2. Tabelle anlegen: Bild, erwarteter Grad, KI-Grad, Bewertung.
 ```
 Baue testlauf.js: schickt alle Bilder aus testbilder durch dieselbe Auswertung und schreibt eine CSV nach ergebnisse/ mit Datei, KI-Grad, Ampel, Konfidenz und einer leeren Spalte Bewertung. Bewerte nichts selbst.
